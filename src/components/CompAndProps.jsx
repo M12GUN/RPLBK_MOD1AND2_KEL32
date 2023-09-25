@@ -4,7 +4,7 @@ function Square(props){
  return (
  <div>
  <h2> Hai kawan namaku Renaldy</h2>
- <h2> isi email</h2>
+ <h2> re132218@gmail.com</h2>
  <p>21120120130055{props.komponen}</p>
  <a href={props.link}>WA Renaldy</a>
  </div>
@@ -15,7 +15,7 @@ function Square1(props){
     return (
     <div>
     <h2> Hai kawan namaku Fairuz</h2>
-    <h2> isi email</h2>
+    <h2> fairuz@gmail.com</h2>
     <p>21120120130110{props.komponen}</p>
     <a href={props.link}>WA Fairuz</a>
     </div>
@@ -37,7 +37,7 @@ function Square3(props){
     return (
     <div>
     <h2> Hai kawan namaku Daffa</h2>
-    <h2> isi email</h2>
+    <h2> Daffa@gmail.com</h2>
     <p>21120120130093{props.komponen}</p>
     <a href={props.link}>WA Daffa</a>
     </div>

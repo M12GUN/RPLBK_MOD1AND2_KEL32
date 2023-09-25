@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-image: linear-gradient(to right, #176daf, #e4f3f3, #0fbe78)
 }
 
 .logo {
@@ -42,38 +43,50 @@
 }
 
 .User-info1{
-  display: inline-block;
+  display: inline-flex;
+  color: rgb(163, 168, 152);
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Verdana;
   width: auto;
-  color: #fb4949;
   border-radius: 25px;
   padding:0 5px 10px;
-  margin: 0px 0px;
-  background: #26fd0a;
+  margin: 30px 20px;
+  background: #000000;
  }
  .User-info2{
-  display: inline-block;
+  display: inline-flex;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Verdana;
   width: auto;
-  color: #3cbb91;
   border-radius: 25px;
   padding:0 5px 10px;
-  margin: 10px 10px;
-  background: #fcce05;
+  margin: 30px 20px;
+  background: rgb(163, 168, 152);
  }
  .User-info3{
-  display: inline-block;
+  display: inline-flex;
+  color: rgb(163, 168, 152);
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Verdana;
   width: auto;
-  color: #e539d7;
   border-radius: 25px;
   padding:0 5px 10px;
-  margin: 10px 0px;
-  background: #09ffa1;
+  margin: 30px 20px;
+  background: #000000;
  }
  .User-info4{
-  display: inline-block;
+  display: inline-flex;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Verdana;
   width: auto;
-  color: #92ea17;
   border-radius: 25px;
   padding:0 5px 10px;
-  margin: 10px 10px;
-  background: #ff4b04;
+  margin: 30px 20px;
+  background: rgb(163, 168, 152);
  }
