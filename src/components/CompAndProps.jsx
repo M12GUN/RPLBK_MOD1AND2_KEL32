@@ -3,8 +3,8 @@ import '../App.css';
 function Square(props){
  return (
  <div>
- <h2> Hai kawan namaku Renaldy</h2>
- <h2> re132218@gmail.com</h2>
+ <h2> Renaldy Andara Permata </h2>
+ <h3> re132218@gmail.com</h3>
  <p>21120120130055{props.komponen}</p>
  <a href={props.link}>WA Renaldy</a>
  </div>
@@ -14,8 +14,8 @@ function Square(props){
 function Square1(props){
     return (
     <div>
-    <h2> Hai kawan namaku Fairuz</h2>
-    <h2> fairuz@gmail.com</h2>
+    <h2> Fairuzsyah Naufal Fikri </h2>
+    <h3> fairuz@gmail.com</h3>
     <p>21120120130110{props.komponen}</p>
     <a href={props.link}>WA Fairuz</a>
     </div>
@@ -25,8 +25,8 @@ function Square1(props){
 function Square2(props){
     return (
     <div>
-    <h2> Hai kawan namaku Abdul</h2>
-    <h2> emghanmuslim@gmail.com</h2>
+    <h2> M G Abdul Nashr </h2>
+    <h3> emghanmuslim@gmail.com</h3>
     <p>21120120120029{props.komponen}</p>
     <a href={props.link}>WA Abdul</a>
     </div>
@@ -36,8 +36,8 @@ function Square2(props){
 function Square3(props){
     return (
     <div>
-    <h2> Hai kawan namaku Daffa</h2>
-    <h2> Daffa@gmail.com</h2>
+    <h2> Daffa Abhyasa Santoso </h2>
+    <h3> Daffa@gmail.com</h3>
     <p>21120120130093{props.komponen}</p>
     <a href={props.link}>WA Daffa</a>
     </div>

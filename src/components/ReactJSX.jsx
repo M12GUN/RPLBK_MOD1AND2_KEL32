@@ -12,8 +12,7 @@ const ReactJSX = () => {
  <div>
  <h1>Tugas Modul II</h1>
  <h2>Praktikum--- {greetings(asisten)}</h2>
- <p style={{color:'#000000'}}>ini adalah contoh 
-menggunakan JSX</p>
+
  </div>
  );
 }
@@ -23,7 +22,6 @@ const ReactNoJSX = () => {
     React.createElement('h1', null, 'Halo Praktikan Yohoho ho ho'),
     React.createElement('h2', null, 'Kami dari Kelompok 32', ), 
     React.createElement('h3', null, greetings(asisten) ),
-    React.createElement('p2', {style:{color:'#000000'}}, 'ini adalah contoh tanpa JSX')
  )
    } 
    export default ReactJSX;
